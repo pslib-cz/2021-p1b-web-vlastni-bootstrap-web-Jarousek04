@@ -14,5 +14,5 @@ Požadavky:
 * sticky záhlaví stránky s menu
 * zápatí stránky (např. https://mdbootstrap.com/docs/jquery/navigation/footer/#advanced)
 * použití prvku media
-* grafika v rozumné velikosti (px, kB)
-* modifikovaný styl Bootstrapu (https://bootstrap.build/themes, https://bootstrap.build/app , https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/ )
+* |grafika v rozumné velikosti (px, kB)
+* |modifikovaný styl Bootstrapu (https://bootstrap.build/themes, https://bootstrap.build/app , https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/ )
